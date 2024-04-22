@@ -1,4 +1,4 @@
-# Be A Creator Who Harnesses The Power Of AI
+# All INRDers Should Become Creators, Who Is Able To Create Values Through Harnessing The Power Of AI 
 
 This repository is intended to demonstrate how to utilize the power of AI copilot to optimize the performance of quick pow algorithm.
 
